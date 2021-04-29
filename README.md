@@ -3,7 +3,7 @@
 ### Hi there!! Welcome to my Github page !!
 
 ## ⚡ Tech Stack
-<img src="./azuredevops.svg" /> <img src="./amazonaws.svg">
+<img src="./azuredevops.svg" width="15" height="15" />
 <img
   src="https://github-readme-stats.vercel.app/api?username=ksivva&count_private=true&icon_color=FD9047&custom_title=Kamaraj's+GitHub+Stats&show_icons=true&theme=dark&count_private=true"
 />
